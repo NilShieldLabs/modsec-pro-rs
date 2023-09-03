@@ -1,0 +1,4 @@
+# base styles: LLVM, GNU, Google, Chromium, Microsoft, Mozilla, WebKit.
+# refer: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+# 需要在Clion里面启用clang-format替代默认的formater
+BasedOnStyle: WebKit
